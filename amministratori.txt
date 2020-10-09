@@ -1,0 +1,3 @@
+admin1 aaaa
+admin2 bbbb
+lucapastore aaaa 0
