@@ -5,11 +5,11 @@ Secondo progetto di Laboratorio di Algoritmi e Strutture dati basato sulla reali
 
 <br>
 <H1> Documentazione</H1>
-La documentazione completa del software è disponibile a questo <a href= "https://drive.google.com/file/d/1fxxHk9h_lbXfYuAgfIr3QpwByqqhPSG_/view?usp=sharing"> link</a>
+La documentazione completa del software è disponibile a questo <a href= "https://drive.google.com/file/d/1fxxHk9h_lbXfYuAgfIr3QpwByqqhPSG_/view?usp=sharing"> link</a>.<br>
 In tale documentazione è presente:
 <ul type="cyrcle">
   <li>Analisi dettagliata delle specifiche</li>
   <li>Analisi delle strutture dati utilizzate e della complessità temporale degli algoritmi implementati su di esse</li>
 </ul>
 <br>
-Un breve manuale d'uso, in cui sono elencate le principali funzionalità dell'applicativo è disponibile a questo <a href="https://drive.google.com/file/d/1R8kEsXVH6-bzpgRhh_dLA3Q7eVzIzN3v/view?usp=sharing"> link</a><br>
+Un breve manuale d'uso, in cui sono elencate le principali funzionalità dell'applicativo, è disponibile a questo <a href="https://drive.google.com/file/d/1R8kEsXVH6-bzpgRhh_dLA3Q7eVzIzN3v/view?usp=sharing"> link</a><br>
