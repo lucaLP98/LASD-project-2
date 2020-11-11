@@ -7,12 +7,12 @@ Si richiede ceh un utente possa registrarsi all'avvio del sistema, o entrare com
 Dopo l'accesso l'utente può visualizzare le sue prenoatzioni attive ed effettuarne una nuova specificando:
 <br>
 <ol>
-  <li> La città di partenza e la città di destinazione, e il sistema gli propone: </li><br>
+  <li> La città di partenza e la città di destinazione, e il sistema gli propone: </li>
   <ul>
     <li> La tratta più economica </li>
     <li> La tratta più breve</li>
   </ul>
-  <li> Solo la città di partenza, e il sistema gli propone </li><br>
+  <li> Solo la città di partenza, e il sistema gli propone </li>
   <ul>
     <li> La meta più gettonata </li>
     <li> La meta più economica</li>
