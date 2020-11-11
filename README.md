@@ -29,8 +29,7 @@ Accumulare punti consente di maturare degli sconti per viaggi successivi. Prima 
 Prima dell'accesso da parte dell'utente, il sistema può permettere alla compagnia di aggiungere nuove tratte (sia nuove destinazioni che nuovi voli) e di rimuoverle.<br><br>
 
 Per semplicità, si assuma che la disponibilità dei voli non sia vincolata a date nè al numero di posti disponibili sul volo stesso.
-<br>
-<br>
+<br><br>
 <H1> Documentazione</H1>
 La documentazione completa del software è disponibile a questo <a href= "https://drive.google.com/file/d/1fxxHk9h_lbXfYuAgfIr3QpwByqqhPSG_/view?usp=sharing"> link</a>.<br>
 In tale documentazione è presente:
