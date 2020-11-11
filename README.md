@@ -23,8 +23,8 @@ Dopo l'accesso l'utente può visualizzare le sue prenotazioni attive ed effettua
 Tutte le tratte proposte dalla compagnia possono prevedere scali.<br>
 Nel caso non ci siano voli disponibili per la tratta selezionata, la compagnia avviserà opportunamente l'utente. <br><br>
 
-Ad ongi acquisto, l'utente accumula dei punti, proporzionalmente al costo della tratta prenotata.<br>
-Accumulare punti consente di maturare degli sconti per viaggi successivi. Prima di procedere con la prenotazione, quindi, il sistema controlla opportunamente se l'utente possiede delgi socnti ed eventualmente li applica, se l'utente lo desidera.<br><br>
+Ad ogni acquisto, l'utente accumula dei punti, proporzionalmente al costo della tratta prenotata.<br>
+Accumulare punti consente di maturare degli sconti per viaggi successivi. Prima di procedere con la prenotazione, quindi, il sistema controlla opportunamente se l'utente possiede degli sconti ed eventualmente li applica, se l'utente lo desidera.<br><br>
 
 Prima dell'accesso da parte dell'utente, il sistema può permettere alla compagnia di aggiungere nuove tratte (sia nuove destinazioni che nuovi voli) e di rimuoverle.<br><br>
 
