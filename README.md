@@ -3,7 +3,8 @@ Secondo progetto di Laboratorio di Algoritmi e Strutture dati basato sulla reali
 
 <H1> Specifiche </H1>
 Si sviluppi un programma per la gestione delle prenotazioni di voli. <br>
-Si richiede ceh un utente possa registrarsi all'avvio del sistema, o entrare come utente già registrato. I ogni caso, solo gli utenti registrati possono prenotare un nuovo viaggio.<br><br>
+Si richiede che un utente possa registrarsi all'avvio del sistema, o entrare come utente già registrato. In ogni caso, solo gli utenti registrati possono prenotare un nuovo viaggio.<br><br>
+
 Dopo l'accesso l'utente può visualizzare le sue prenoatzioni attive ed effettuarne una nuova specificando:<br>
 <br>
 <ol>
@@ -19,7 +20,8 @@ Dopo l'accesso l'utente può visualizzare le sue prenoatzioni attive ed effettua
   </ul>
 </ol>
 <br>
-Tutte le tratte proposte dalla compagnia possono prevedere scali. Nel caso non ci siano voli disponibili per la tratta selezionata, la compagnia avviserà opportunamente l'utente. <br><br>
+Tutte le tratte proposte dalla compagnia possono prevedere scali.<br>
+Nel caso non ci siano voli disponibili per la tratta selezionata, la compagnia avviserà opportunamente l'utente. <br><br>
 
 Ad ongi acquisto, l'utente accumula dei punti, proporzionalmente al costo della tratta prenotata.<br>
 Accumulare punti consente di maturare degli sconti per viaggi successivi. Prima di procedere con la prenotazione, quindi, il sistema controlla opportunamente se l'utente possiede delgi socnti ed eventualmente li applica, se l'utente lo desidera.<br><br>
